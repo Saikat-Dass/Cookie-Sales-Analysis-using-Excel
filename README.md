@@ -11,9 +11,9 @@ Using Excel this project analyzes historical sales data to :-
 
 The workbook provides a ready-to-consume business summary without requiring any code.
 
-<h2>The Final Dashboard report</h2>
+<h2>The Final Dashboard report :</h2>
 
-![Report Dashboard]()
+![Report Dashboard](https://github.com/Saikat-Dass/Cookie-Sales-Analysis-using-Excel/blob/2768a425aade6b8daf75eaca63aba2905f58bbca/Report%20Dashboard.png)
 
 <h2>Tools & Skills Applied :-</h2>
 
